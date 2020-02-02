@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChernoOpenGL",
+    "\\ChernoOpenGL\\common",
+    "\\ChernoOpenGL\\res",
+    "\\ChernoOpenGL\\res\\models",
+    "\\ChernoOpenGL\\res\\shaders"
+  ],
+  "SelectedNode": "\\ChernoOpenGL\\res\\Application.cpp",
+  "PreviewInSolutionExplorer": false
+}
