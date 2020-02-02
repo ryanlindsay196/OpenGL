@@ -1,0 +1,25 @@
+﻿  Model.cpp
+c:\users\ryan\desktop\opengl-tutorial-1\chernoopengl\common\model.cpp(35): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\ryan\desktop\opengl-tutorial-1\chernoopengl\common\model.cpp(40): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\ryan\desktop\opengl-tutorial-1\chernoopengl\common\model.cpp(42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\ryan\desktop\opengl-tutorial-1\chernoopengl\common\model.cpp(47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\ryan\desktop\opengl-tutorial-1\chernoopengl\common\model.cpp(267): warning C4018: '<': signed/unsigned mismatch
+  Application.cpp
+  Generating Code...
+  ChernoOpenGL.vcxproj -> C:\Users\Ryan\Desktop\OpenGL-tutorial-1\Debug\ChernoOpenGL.exe

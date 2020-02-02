@@ -1,0 +1,14 @@
+[Entity:Tank]
+[Position:(0,1.5,3.5)]
+[Rotation:(0,1,0),0]
+[/Entity:Tank]
+
+[Entity:Tank]
+[Position:(1,0,0)]
+[Rotation:(0,1,0),0]
+[/Entity:Tank]
+
+#[Entity:Menu]
+#[Position:(0,0.1,-2)]
+#[Rotation:(0,1,0),0]
+#[/Entity:Menu]
